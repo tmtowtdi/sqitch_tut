@@ -4,3 +4,5 @@
 
 users 2014-04-02T17:47:52Z Jonathan D. Barton <tmtowtdi@gmail.com> # Create users table
 flips [users] 2014-04-02T18:23:53Z Jonathan D. Barton <tmtowtdi@gmail.com> # Add tables for storing flips
+userflips [users flips] 2014-04-02T18:41:29Z Jonathan D. Barton <tmtowtdi@gmail.com> # Create userflips view
+@v1.0-dev 2014-04-02T18:44:40Z Jonathan D. Barton <tmtowtdi@gmail.com> # Tagging v1.0-dev
